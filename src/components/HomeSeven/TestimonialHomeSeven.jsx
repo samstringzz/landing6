@@ -59,13 +59,6 @@ function TestimonialHomeSeven({ className }) {
                                             our project on time and exceeded our expectations. The quality of work 
                                             and attention to detail is outstanding."
                                         </p>
-                                        <ul>
-                                            <li><i className="fas fa-star" /></li>
-                                            <li><i className="fas fa-star" /></li>
-                                            <li><i className="fas fa-star" /></li>
-                                            <li><i className="fas fa-star" /></li>
-                                            <li><i className="fas fa-star" /></li>
-                                        </ul>
                                     </div>
                                 </div>
                                 <div className="appie-testimonial-item text-center">
@@ -80,13 +73,6 @@ function TestimonialHomeSeven({ className }) {
                                             successfully. They understood our vision and brought it to life better 
                                             than we could have imagined."
                                         </p>
-                                        <ul>
-                                            <li><i className="fas fa-star" /></li>
-                                            <li><i className="fas fa-star" /></li>
-                                            <li><i className="fas fa-star" /></li>
-                                            <li><i className="fas fa-star" /></li>
-                                            <li><i className="fas fa-star" /></li>
-                                        </ul>
                                     </div>
                                 </div>
                                 <div className="appie-testimonial-item text-center">
@@ -101,13 +87,6 @@ function TestimonialHomeSeven({ className }) {
                                             technical expertise helped us achieve our goals. I highly recommend 
                                             them to anyone looking for quality work."
                                         </p>
-                                        <ul>
-                                            <li><i className="fas fa-star" /></li>
-                                            <li><i className="fas fa-star" /></li>
-                                            <li><i className="fas fa-star" /></li>
-                                            <li><i className="fas fa-star" /></li>
-                                            <li><i className="fas fa-star" /></li>
-                                        </ul>
                                     </div>
                                 </div>
                             </Slider>
