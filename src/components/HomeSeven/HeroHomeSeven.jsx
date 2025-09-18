@@ -10,22 +10,11 @@ function HeroHomeSeven() {
                     <div className="row align-items-center">
                         <div className="col-lg-7">
                             <div className="appie-hero-content appie-hero-content-6 appie-hero-content-7">
-                                <h1 className="appie-title">Exclusive Solutions for Modern Businesses</h1>
-                                <p>
-                                    We deliver innovative technology solutions that transform your business 
-                                    and drive exceptional results. Experience the difference with our 
-                                    cutting-edge approach to digital excellence.
+                                <h1 className="appie-title">Hi, I'm Alika Maya</h1>
+                                <p style={{ fontSize: '24px', fontWeight: '600', color: '#8b5cf6', marginBottom: '30px' }}>
+                                    Empowering Lives Through Style & Inspiration
                                 </p>
-                                <div className="hero-buttons">
-                                    <a href="#services" className="appie-btn appie-btn-2">
-                                        <i className="fas fa-rocket"></i>
-                                        <span>Explore Services</span>
-                                    </a>
-                                    <a href="#contact" className="appie-btn appie-btn-3">
-                                        <i className="fas fa-phone"></i>
-                                        <span>Get In Touch</span>
-                                    </a>
-                                </div>
+
                                 <div className="info"></div>
                             </div>
                         </div>
